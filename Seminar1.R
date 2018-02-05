@@ -1,4 +1,4 @@
-plot(density(rnorm(100)),col="red")
+plot(density(rnorm(100)),col="green")
 x=5
 x<-5
 assign("x",5)
